@@ -3,6 +3,7 @@ In this assignment I was tasked with Modeling, Engineering, and Analyzing a set 
 
 ## Data Modeling:
 To model the data I inspected the CSVs and sketched out an ERD of the tables.
+![ERD](ERD/ERD.png)
 
 ## Data Engineering:
 - Used information given to create a table scheme for each of the six CSV files. Specifies data types, primary keys, foreign keys, and other constraints.
